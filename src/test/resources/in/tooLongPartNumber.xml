@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Products>
+    <Product id="1">
+        <Name>apple</Name>
+        <Category>fruit</Category>
+
+        <PartNumberNR>aaaa2303-E1A-G-M-W209B-VM</PartNumberNR>
+
+        <CompanyName>FruitsAll</CompanyName>
+
+        <Active>true</Active>
+    </Product>
+</Products>
