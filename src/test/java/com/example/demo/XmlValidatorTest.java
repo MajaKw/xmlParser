@@ -1,6 +1,5 @@
 package com.example.demo;
 
-import com.example.demo.DemoApplication;
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 

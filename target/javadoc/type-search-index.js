@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.example.demo","l":"DemoApplication"},{"p":"com.example.demo","l":"Product"},{"p":"com.example.demo","l":"ProductController"},{"p":"com.example.demo","l":"Tag"},{"p":"com.example.demo","l":"XmlStreamReaderWrapper"},{"p":"com.example.demo","l":"XmlValidator"}];updateSearchResults();

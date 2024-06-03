@@ -1,6 +1,5 @@
 package com.example.demo;
 
-import com.example.demo.DemoApplication;
 import org.json.JSONException;
 import org.junit.Test;
 import org.skyscreamer.jsonassert.JSONAssert;
